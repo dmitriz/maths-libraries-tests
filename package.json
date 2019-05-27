@@ -19,6 +19,6 @@
     "big.js": "^5.0.0"
   },
   "devDependencies": {
-    "min-karma-webpack": "^1.0.2"
+    "min-karma-webpack": "1.0.2"
   }
 }
