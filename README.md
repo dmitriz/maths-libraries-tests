@@ -1,7 +1,7 @@
 # min-karma-webpack
 Testing Mathematics libraries
 
-[![js-standard-style](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
+[![js-standard-style](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard) [![Greenkeeper badge](https://badges.greenkeeper.io/dmitriz/maths-libraries-tests.svg)](https://greenkeeper.io/)
 
 # Tech stack
 
