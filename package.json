@@ -16,7 +16,7 @@
   "author": "Dmitri Zaitsev <dmitri14@gmail.com> (https://github.com/dmitriz)",
   "license": "MIT",
   "dependencies": {
-    "big.js": "^5.0.0"
+    "big.js": "^6.0.0"
   },
   "devDependencies": {
     "min-karma-webpack": "1.0.2"
